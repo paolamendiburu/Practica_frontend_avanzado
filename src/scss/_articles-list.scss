@@ -1,0 +1,65 @@
+@import "mixins/responsive-utils";
+@import "mixins/center-div";
+@import "mixins/article";
+
+.articles-list{
+
+    @include center-div;
+    .article{
+        margin: 10px;
+        display: flex;
+        color: $main-text-color !important;
+        @include if-is-small-device {
+            display: inline-block;
+            vertical-align: top;
+            width: calc(50% - 40px);
+        }
+
+        @include if-is-medium-device {
+
+            width: calc(33% - 40px);
+        }
+
+        @include if-is-large-device {
+            width: calc(25% - 40px);
+        }
+
+        @include if-is-extra-large-device {
+
+        }
+
+
+        .article-img{
+            flex: 1;
+
+        }
+        .info{
+            flex: 2;
+            padding: 0 10px;
+            overflow: hidden;
+            @include if-is-medium-device {
+                padding: 10px 0;
+            }
+            .heading{
+                @include heading;
+            }
+            .summary{
+                display: none;
+                @include if-is-medium-device {
+                    display: block;
+                    margin: 10px 0;
+                }
+            }
+            .author-info{
+               @include author-info;
+                .img-author{
+                   @include img-author;
+                }
+
+                i{}
+                .time-passed{}
+
+            }
+        }
+    }
+}

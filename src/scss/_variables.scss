@@ -1,0 +1,53 @@
+// Variables de SASS
+
+// Paths
+$images-path: '../assets/img/';
+
+// Font families
+$main-font-family: 'Open Sans', sans-serif;
+$title-font-family: 'Merriweather', serif;
+
+// Font sizes
+$font-size-base: 18px;
+$font-size-small: $font-size-base - 5px;
+$font-size-large: $font-size-base + 5px;
+$font-size-h1: $font-size-base + 15px;
+$font-size-h2: $font-size-base + 12px;
+$font-size-h3: $font-size-base + 9px;
+$font-size-h4: $font-size-base + 6px;
+$font-size-h5: $font-size-base + 3px;
+$font-size-h6: $font-size-base;
+
+// Colors
+$color-aoi: #69D2E7;
+$color-pondwater: #A7DBD8;
+$color-beach-storm: #E0E4CC;
+$color-giant-goldfish: #F38630;
+$color-unreal-food-pills: #FA6900;
+$color-darth-Gray: #666666;
+
+
+// Main components colors
+$main-text-color: $color-darth-Gray;
+$links-color: $color-aoi;
+$links-hover-color: $color-giant-goldfish;
+$brand-color: $color-aoi;
+$shadow-color: lighten(black, 30%);
+$border-color: $color-pondwater;
+$button-background: $color-aoi;
+$button-hover-background: $color-giant-goldfish;
+$footer-background: $color-darth-Gray;
+$error-color: $color-unreal-food-pills;
+$outline-color: $color-aoi;
+
+// Transitions
+$default-transition-time: 0.25s;
+
+// Responsive breakpoints
+$small-device-width: 540px;
+$medium-device-width: 720px;
+$large-device-width: 960px;
+$extra-large-device-width: 1140px;
+
+// Layout sizes
+$header-height: 75px;

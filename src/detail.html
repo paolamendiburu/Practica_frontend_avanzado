@@ -1,0 +1,81 @@
+<%= require('html-loader!./includes/header.html') %>
+
+    <article class="article-detail">
+
+        <div class="detail-heading">These 15 unsung women in tech changed the world</div>
+        <div class="detail-summary">The first programmers weren't men, and the first computers weren't machines. What they were, in both cases, were
+            women.
+        </div>
+        <div class="detail-img">
+            <img src="/assets/img/article1.jpeg" alt="These 15 unsung women in tech changed the world">
+        </div>
+
+
+        <div class="author-info">
+            <img src="http://theivykey.com/images/no-profile-image.png" class="img-author">
+            <span class="author-name">Paola </span>
+            <span> | </span>
+            <i class="far fa-clock"></i>
+            <span class="time-post"> 10h</span>
+            <span> | </span>
+
+            <i class="fas fa-comments"></i>
+            <span class="number-comments"> </span>
+
+
+
+
+        </div>
+        <div class="detail-text">
+            <p>Women's many contributions to technology are frequently left out of the history books. But lately, that's been
+                changing — at least a little.</p>
+            <p>
+                <b>Ada Lovelace</b>, considered the first computer programmer and a visionary for what programming and computers
+                could eventually become, has a technology award named after her, and a holiday devoted to celebrating her
+                legacy. Katherine Johnson meanwhile, the NASA 'computer' responsible for successfully plotting the flight
+                paths of some of America's earliest space exploration expeditions, was the subject of the Hollywood blockbuster
+                Hidden Figures (and the book it's based on). </p>
+            <p>But the stories of far too many of the women who drove innovation in the 19th, 20th, and into the 21st centuries
+                — these key technological architects of modern life — have long gone unheard, their praises unsung. What
+                about the woman who created the Palm Pilot, the woman who made working from home a reality, the woman who
+                invented online dating, or the woman who helped Obama save the internet? (Yes, they were all women.) </p>
+        </div>
+
+
+
+    </article>
+    <section class="comments-bcg" id="comments">
+        <div class="comments">
+            <h3>Comments</h3>
+            <div class="comments-list">
+
+            </div>
+
+            <form novalidate class="comments-form animated slideInDown">
+                Add a comment
+
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6">
+                        <input type="text" class="form-control" id="fullnameInput" placeholder="Full name">
+                    </div>
+                    <div class="col-xs-12 col-sm-6">
+                        <input type="email" id="emailInput" class="form-control" placeholder="E-mail">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <textarea class="form-control" id="comment-text" rows="4" placeholder="Please write your comment (max: 120 words)"></textarea>
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="col text-center">
+                        <button disabled id="create-comment ">Add a comment</button>
+                    </div>
+                </div>
+
+            </form>
+        </div>
+    </section>
+
+    <%= require('html-loader!./includes/footer.html') %>

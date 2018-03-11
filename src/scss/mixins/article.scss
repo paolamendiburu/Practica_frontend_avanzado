@@ -1,0 +1,22 @@
+@mixin heading {
+    font-weight: bold;
+
+    &:hover{
+        color:$links-hover-color;
+    }
+
+    @include if-is-medium-device {
+        font-size: $font-size-large;
+    }
+  }
+@mixin author-info{
+    margin-top: 10px;
+    font-size: $font-size-small;
+}
+@mixin img-author{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+}
+
+

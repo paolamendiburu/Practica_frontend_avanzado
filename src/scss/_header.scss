@@ -1,0 +1,30 @@
+
+.header{
+    padding-bottom:$header-height;
+
+    .top-header{
+
+        .web-title{
+            padding-left: 10px;
+            display: inline-block;
+        }
+        .left-menu{
+            position: absolute;
+            right: 20px;
+            top: 0;
+
+            .search{
+                width: 100px;
+            }
+            .loginBtn{}
+            .registerBtn{}
+        }
+    }
+    .menu{
+        .categories-list{
+            .category{
+
+            }
+        }
+    }
+}

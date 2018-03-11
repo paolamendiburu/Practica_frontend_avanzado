@@ -1,0 +1,12 @@
+@import "~reset-css/reset";
+@import url(https://use.fontawesome.com/releases/v5.0.7/css/all.css);
+@import url('https://fonts.googleapis.com/css?family=Merriweather:300,400,700|Open+Sans:400,700');
+@import "custom";
+@import "~bootstrap/scss/bootstrap";
+
+@import 'variables';
+@import 'tags';
+@import 'header';
+@import 'footer';
+@import 'articles-list';
+@import 'detail-article';

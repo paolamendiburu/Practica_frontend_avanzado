@@ -1,0 +1,134 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "heading": "These 15 unsung women in tech changed the world",
+      "summary": "The first programmers weren't men, and the first computers weren't machines. What they were, in both cases, were women.",
+      "media": "article1.jpeg",
+      "mediaType": "img",
+      "text": "<p>Women's many contributions to technology are frequently left out of the history books. But lately, that's been changing — at least a little.</p><p><b>Ada Lovelace</b>, considered the first computer programmer and a visionary for what programming and computers could eventually become, has a technology award named after her, and a holiday devoted to celebrating her legacy. Katherine Johnson meanwhile, the NASA 'computer' responsible for successfully plotting the flight paths of some of America's earliest space exploration expeditions, was the subject of the Hollywood blockbuster Hidden Figures (and the book it's based on). </p><p>But the stories of far too many of the women who drove innovation in the 19th, 20th, and into the 21st centuries — these key technological architects of modern life — have long gone unheard, their praises unsung. What about the woman who created the Palm Pilot, the woman who made working from home a reality, the woman who invented online dating, or the woman who helped Obama save the internet? (Yes, they were all women.) </p>",
+      "author": "Rachel Kraus",
+      "authorImg": "author1.jpg",
+      "date": "2018-03-08T15:30:00"
+    },
+    {
+      "id": 2,
+      "heading": "SXSW speaker scrambles to change sexist panel title",
+      "summary": "The panel in question: 'Don't Sweat The Tech: Mom Can Use Blockchain Too.'",
+      "media": "article2.jpg",
+      "mediaType": "img",
+      "text": "<p>Yes, quite horrific. The panel's organizer Dylan Figlo was alerted to concern last month and revised it to 'Passing the Mom Test: The Key to Blockchain Experiences.' Still, there was backlash. The panel has since been changed for a third time to a neutral, non-sexist title.</p><p>The issue here is that the original title, and somehow the revised version as well, imply that moms have a difficult time grasping complex technological concepts such as the blockchain. Rather than being inclusive, the title diminishes the role of women in the development and use of blockchain technology.</p><p>The oversight by the SXSW organizers is reminiscent of the all-male lineup at CES 2018, the tech industry's biggest annual conference. The CES 2018 lineup faced immediate backlash from attendees and other tech leaders and led to an all-women event sponsored by Twitter. SXSW panels are submitted in the summer and accepted in the fall, so this did all process ahead of that controversy. But of course, that's no excuse. </p>",
+      "author": "Kerry Flinn",
+      "authorImg": "author2.png",
+      "date": "2018-03-11T17:30:00"
+    },
+    {
+      "id": 3,
+      "heading": "Why Hillary Clinton’s former CTO is back in Silicon Valley",
+      "summary": "Stephanie Hannon, 43, didn't consider herself an athlete until age 39. ",
+      "media": "article3.png",
+      "mediaType": "img",
+      "text": "<p>For the first time in my life at 39, I went on a hike, and I used Strava from the very beginning to track my hike. I also radically changed my diet. I gave up meat. I gave up alcohol. I gave up a lot of things and went on this personal health quest. I had a 7-hour surgery, and I basically walked right out the door. The next day I walked 2 miles. For me, that was a really motivating moment, and when I got through the surgery, I was like I’ve never been a healthy person so how am I going to keep the motivation going when there’s no surgery moving. </p><p>I started sleeping 7 or 8 hours, and I would tell everyone about it. Like, “Have you guys heard about sleep?” I was more emotionally balanced and resilient. I was happier and had better relationships. My whole experience going through that had a big impact on me. As I was looking around at companies and met great entrepreneurs and all this cool stuff happening in Silicon Valley with the combination of knowing people here at Strava, combination of my own personal journey to get healthy, and also really believing in the product. </p>",
+      "author": "Kerry Flinn",
+      "authorImg": "author2.png",
+      "date": "2018-03-01T17:30:00"
+    },
+    {
+      "id": 4,
+      "heading": "This company claims it has eliminated the gender pay gap",
+      "summary": "Compared to the national average, Adobe's one-cent gap was miniscule.",
+      "media": "article4.jpg",
+      "mediaType": "img",
+      "text": "<p>In July 2016, female Adobe employees based in the U.S. were making 99 cents to every dollar that the company's male employees were making. The software company vowed to close that pay gap by the end of the fiscal year. </p><p>On Thursday, Adobe announced that it has followed through on its promise, Fortune reports. Women in Adobe's U.S. offices, the company claimed, now make $1.00 for every dollar made by male employees. </p><p>But compared to the largest technology companies, Adobe is actually late to the game. Facebook and Microsoft announced last April that they had eliminated gender pay gaps between their employees. Apple and Intel also announced gender parity in 2015. </p>",
+      "author": "Monica Chin",
+      "authorImg": "author4.jpg",
+      "date": "2018-03-10T19:37:03"
+    },
+    {
+      "id": 5,
+      "heading": "On National STEM Day, there's still a lot of work to do for women",
+      "summary": "As we know, women are underrepresented in nearly all of these fields.",
+      "media": "article5.jpg",
+      "mediaType": "img",
+      "text": "<p>'In honor of National STEM Day, we looked at how women around the globe are faring in STEM-heavy industries—software and IT, healthcare, and finance. This included looking over the past 10 years on what women studied in university to ultimately land them in their respective careers, LinkedIn wrote in a blog post. What we found was that the gap starts early. While women are pursuing degrees relevant to STEM fields, they are severely underrepresented amongst graduates with technical degrees, and there is a high demand for more women in STEM fields.'</p><p>As we know, women are underrepresented in nearly all of these fields. In leadership especially, women make up only 17 percent of those roles in software and IT. As LinkedIn pointed out, that's barely more than the stereotypically male manufacturing, energy, and mining industries.</p><p>And while the problems facing the recruitment and retention of women in STEM fields have to do with other factors besides the pipeline, the gender divide is notable in technical degrees too. Nineteen percent of engineering degrees go to women, 23 percent of computer science degrees go to women, and 33 percent of math degrees go to women.</p>",
+      "author": "Emma Hichliffe",
+      "authorImg": "author5.jpg",
+      "date": "2018-03-06T18:57:00"
+    },
+    {
+      "id": 6,
+      "heading": "3 women of color sue Uber over gender and race-based wage discrimination",
+      "summary": "Uber discriminated based on race and gender in compensation and promotions",
+      "media": "article6.jpg",
+      "mediaType": "img",
+      "text": "<p>Three Uber engineers—two former and one still employed at the ride-hailing giant—filed a lawsuit Tuesday after bringing complaints to the California Labor and Workforce Development Agency this summer. Women and people of color at Uber are paid lower salaries, awarded smaller bonuses, given less equity, and promoted more slowly than their white, male, and Asian American counterparts, the lawsuit alleges. (The suit defines 'of color' as referring to black, Latino and Native American employees and the engineers who filed the suit are identified as Latina). </p><p>Uber is facing this lawsuit eight months after the company was force to publicly reckon with a dismal company culture that included accusations of sexual harassment and sexism. Since Susan Fowler published her account of harassment and discrimination throughout her time at Uber, Uber has brought on a new CEO and pledged to improve its culture. Uber declined to comment on the lawsuit.</p>",
+      "author": "Emma Hichliffe",
+      "authorImg": "author5.jpg",
+      "date": "2018-02-07T18:57:00"
+    },
+    {
+      "id": 7,
+      "heading": "58% of men in tech say there are enough women in leadership roles, but women don't agree",
+      "summary": "We know the research: when women make up 17 percent of the room, men think it's 50-50",
+      "media": "article7.jpg",
+      "mediaType": "img",
+      "text": "<p>Comparably surveyed 24,000 workers in the tech industry starting in March 2016. The survey was nationwide—not just in Silicon Valley—so it's possible a significant portion of respondents worked at companies that do have more representation in their leadership than notably lacking leaders in the Bay Area.</p><p>People who work in sales, communications and finance departments at tech companies were the most confident about the number of women leaders at their companies. Employees in marketing, business development, and human resources thought their companies needed more women at the top.</p>",
+      "author": "Emma Hichliffe",
+      "authorImg": "author5.jpg",
+      "date": "2018-03-04T18:57:00"
+    },
+    {
+      "id": 8,
+      "heading": "What Ellen Pao's case—and advocacy—means to women",
+      "summary": "Years later, Pao's lawsuit is still reverberating through Silicon Valley",
+      "media": "satellite.mp4",
+      "mediaType": "video",
+      "text": "<p>Pao saw her reputation dragged through the mud, spent hundreds of thousands of her own money, and was viewed by many as greedy or ungrateful when she brought suit against her former employer, one of the most powerful venture capital firms in Silicon Valley.</p><p>But to women throughout the tech industry—and to women in similarly male-dominated fields—she was a hero.</p>",
+      "author": "Monica Chin",
+      "authorImg": "author4.jpg",
+      "date": "2018-02-28T13:37:40"
+    },
+    {
+      "id": 9,
+      "heading": "Girl Scouts adds 23 STEM badges in biggest rollout in nearly a decade",
+      "summary": "Including offerings in robotics and programming.",
+      "media": "article9.jpg",
+      "mediaType": "img",
+      "text": "<p>Girl Scouts of the USA rolled out 23 new badges in STEM and the outdoors on Tuesday, putting scouts one step closer to their eventual destiny of saving the world and everyone in it.</p><p>Among the new offerings are badges focusing on robotics, coding, aviation design, and meteorology. One badge involves scouts going on an environmentally conscious camping trip.</p>",
+      "author": "Claire Parker",
+      "authorImg": "",
+      "date": "2018-02-16T08:09:30"
+    },
+    {
+      "id": 10,
+      "heading": "Girl Scouts will become white hat hackers with cool new cybersecurity badges",
+      "summary": "Girl Scouts will learn how to get around firewalls.",
+      "media": "article10.jpg",
+      "mediaType": "img",
+      "text": "<p>The organization is teaming up with Palo Alto Networks, an internet security company, to introduce a set of new badges to promote computer and internet literacy and cybersecurity. The initiative aims to foster educational programs across all ages of the Girl Scouts, with a major emphasis on providing access to girls who might otherwise never be exposed to the field.</p><p>The 18 new badges will be available to Girl Scouts across the US starting in September 2018. </p>",
+      "author": "Hillary Watson",
+      "authorImg": "",
+      "date": "2018-02-20T11:16:55"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "fullname": "Steve Smith",
+      "email": "steves@gmail.com",
+      "comment": "I believe Matt is going to have a very difficult choice choosing between the Samsung Galaxy S9 Plus and his Apple iPhone X."
+    },
+    {
+      "id": 2,
+      "fullname": "Elisabeth Watson",
+      "email": "ewatson@gmail.com",
+      "comment": "There was no iPhone 5 Plus. I presume you meant the iPhone 5 with it's 4 inch screen or possibly you were thinking of the 5S."
+    },
+    {
+      "fullname": "Peter Jones",
+      "email": "peter@gmail.com",
+      "comment": "I really like the article",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+@import "mixins/responsive-utils";
+@import "mixins/article";
+
+.article-detail{
+    @include center-div;
+
+    .detail-heading{
+        @include heading;
+    }
+    .detail-summary{}
+    .detail-img{
+
+        margin-top: 10px;
+        img{
+            width: 100%;
+        }
+    }
+    .author-info{
+        @include author-info;
+        .img-author{
+           @include img-author;
+        }
+    }
+    .detail-text{
+        margin-top: 10px;
+    }
+
+}
+.comments-bcg{
+    margin-top: 30px;
+    background:#efefef;
+.comments{
+    @include center-div;
+    padding: 20px 0;
+    .comments-list{
+
+        .comment-name{
+            font-weight: bold;
+        }
+        .comment-text{}
+    }
+
+    .comments-form{
+        padding-top: 20px;
+        .row .col input, .row .col textarea{
+
+        }
+        input, textarea, button{
+            margin: 10px 0;
+        }
+        button{
+            padding: 5px 10px;
+            cursor: pointer;
+            background: $button-background;
+            color: white;
+            border-radius: 3px;
+            &:hover{
+                background:$button-hover-background;
+            }
+
+        }
+    }
+
+}
+}
